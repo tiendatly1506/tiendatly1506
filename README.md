@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**tiendatly1506/tiendatly1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics student at **Griffith University** (Gold Coast, QLD), looking for **Business Analyst internships**.
 
-Here are some ideas to get you started:
+I enjoy turning business problems and messy data into clear, practical recommendations: framing the problem, analysing the data, and presenting what it means for decision-makers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools and skills
+
+- **Business analysis:** problem framing, PESTLE, Porter's Five Forces, Balanced Scorecard, SMART goals, roadmaps, risk analysis (FMEA)
+- **BI and reporting:** Power BI (DAX, Power Query), Excel (regression, forecasting), dashboard design
+- **Data:** SQL (MySQL, SQLite), MongoDB, database design (ERD, normalisation)
+- **Analytics:** Python (pandas, scikit-learn, Matplotlib, Plotly), predictive modelling, data visualisation
+
+### 📂 Featured projects
+
+| Project | What it shows |
+|---|---|
+| [Power BI Dashboards](https://github.com/tiendatly1506/Power-BI-Dashboards) | Executive sales dashboards and DAX analysis with business recommendations |
+| [Canva Responsible AI](https://github.com/tiendatly1506/Canva-Responsible-AI) | Business case: problem analysis and a measurable solution pitch for Canva |
+| [Innovation Strategy Cases](https://github.com/tiendatly1506/Innovation-Strategy-Cases) | Strategy and implementation plans for Standard Chartered and PeopleCert |
+| [Retail Database SQL](https://github.com/tiendatly1506/Retail-Database-SQL) | Database design and SQL queries for a retail chain |
+| [Car Price Analysis](https://github.com/tiendatly1506/Car-price-analysis-Python) | End-to-end data cleaning, SQL and visualisation in Python |
+| [Predictive Analytics](https://github.com/tiendatly1506/Predictive-Analytics) | Customer segmentation and premium-buyer prediction in Python |
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/tiendatly)
